@@ -1,120 +1,62 @@
-# 💼 Nazrin Afzal – Software Engineer Portfolio
+# 💼 Nazrin Afzal – Backend Engineer Portfolio
 
-A modern, responsive personal portfolio website built to showcase my professional journey, technical expertise, and featured engineering projects.
+This repository contains my personal portfolio website:
 
-This site reflects my experience building scalable enterprise systems, fintech payment platforms, government-grade applications, and machine learning solutions.
+🔗 [https://github.com/NazrinAfzal1997/portfolio-nazrin-afzal](https://github.com/NazrinAfzal1997/portfolio-nazrin-afzal)
+
+The site highlights my experience as a Backend Engineer specializing in high-availability payment systems, scalable RESTful APIs, and enterprise-grade platforms.
 
 ---
 
-## 🌐 Overview
+## 👨‍💻 About Me
 
-This portfolio presents:
+Backend Engineer with 4+ years of professional experience designing and maintaining production-grade backend systems in fintech, government, and enterprise environments.
 
-* Professional summary
-* Enterprise work experience
-* Technical skill set with proficiency levels
-* Featured engineering projects
-* Contact information
+Specialized in:
 
-Designed with a clean dark interface, structured content hierarchy, and subtle motion effects to reflect engineering maturity and production-level thinking.
+* High-availability payment gateway systems
+* Transaction processing workflows
+* RESTful API architecture
+* Scalable service design using Laravel & Golang
+* Database optimization (MySQL, PostgreSQL, CouchDB)
+* Background job processing & asynchronous systems
+* Containerized deployments with Docker
+
+Strong foundation in OOP, system decomposition, and performance optimization for high-throughput commerce platforms.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Core Technologies
+### Backend
 
-* HTML5
-* Tailwind CSS (CDN configuration)
-* Custom CSS Architecture
-* Vanilla JavaScript
-
-### Implemented Features
-
-* Dynamic typing animation
-* Scroll-based reveal animations (Intersection Observer API)
-* 3D hover tilt effect (desktop only)
-* Mobile-first responsive design
-* SEO meta optimization
-* Open Graph & Twitter integration
-* Structured data (Schema.org JSON-LD)
-
----
-
-## 📂 Project Structure
-
-```
-portfolio/
-│
-├── index.html
-├── js/
-│   └── main.js
-├── style/
-│   └── main.css
-└── README.md
-```
-
----
-
-## 🎯 Key Sections
-
-### 1. Hero Section
-
-* Dynamic typing headline
-* Professional positioning statement
-* Experience statistics highlights
-* Interactive profile image
-
-### 2. Professional Experience
-
-Enterprise-level experience including:
-
-* Fintech payment gateway systems
-* Government tender delivery platforms
-* Banking system integrations
-* Team leadership & architecture design
-
-Each experience includes:
-
-* Scope & responsibilities
-* System reliability contributions
-* Technology stack breakdown
-
----
-
-### 3. Technical Skills
-
-Categorized by proficiency:
-
-**Backend & APIs**
-
-* Laravel
-* PHP
+* PHP (Laravel)
+* Golang
+* RESTful APIs
 * MySQL
 * PostgreSQL
-* REST APIs
 * CouchDB
 * Prisma ORM
 
-**Frontend**
+### Frontend
 
 * HTML
 * CSS
 * Bootstrap
 * JavaScript
 * Angular
-* Livewire
 * Next.js
+* Livewire
 
-**DevOps & Tools**
+### DevOps & Tools
 
 * Docker
-* CI/CD
 * Git
 * PHPUnit
-* Cron Jobs
+* CI/CD Pipelines
+* Cron Jobs & Background Workers
 
-**Data & ML**
+### Data & Machine Learning
 
 * Python
 * Deep Learning
@@ -122,109 +64,119 @@ Categorized by proficiency:
 
 ---
 
-### 4. Featured Projects
+## 💼 Professional Experience (Highlights)
 
-#### Palm Oil Maturity Detection System
+### Razer Merchant Services Sdn Bhd – Software Engineer (E2)
 
-* Computer vision system using YOLOv3
-* 3,000+ annotated training images
-* Real-time detection (image, video, webcam)
-* Agricultural automation use case
+**May 2025 – Present**
 
-#### APPI Examination Question Bank
-
-* Large-scale education platform
-* 100,000+ question management
-* Backend architecture with Laravel
-* High-volume dataset optimization
+* Develop and maintain high-availability payment gateway systems supporting enterprise merchants such as Shopee, TikTok, and Zus Coffee.
+* Support credit/debit, BNPL, recurring billing, and DuitNow QR transactions.
+* Design and optimize RESTful APIs and transactional workflows using Laravel.
+* Contribute to Golang-based components including a UI-backed DuitNow QR transaction generator.
+* Implement asynchronous processing, background workers, and cron jobs to improve scalability.
+* Manage MySQL and CouchDB databases ensuring transactional integrity.
+* Containerize services using Docker and maintain automated tests with PHPUnit.
+* Monitor production systems and troubleshoot payment-related incidents to ensure uptime.
 
 ---
 
-## 🎨 Design Philosophy
+### 3TD Solutions Sdn Bhd – Software Engineer
 
-The portfolio focuses on:
+**June 2023 – May 2025**
 
-* Minimalist dark theme
-* Neon accent color system
-* Strong content hierarchy
-* Readability & performance
-* Subtle, professional animations
-* Engineering-first presentation
+* Delivered government tender projects for KPM and CGSO under strict security requirements.
+* Designed and developed large-scale systems managing sensitive organizational and user data.
+* Built secure RESTful APIs enabling integration with external government platforms.
+* Developed backend systems using Laravel and frontend applications using Angular & Next.js.
+* Managed data workflows with MySQL, PostgreSQL, and Prisma ORM.
+* Led a developer team delivering a major government project.
 
-The objective is clarity, credibility, and professionalism.
+---
+
+### Stampede Solution Sdn Bhd – Software Engineer (L1)
+
+**Sept 2022 – May 2023**
+
+* Contributed to Volare, an accounts receivable management system used by major Malaysian banks.
+* Built and optimized REST APIs for secure banking integrations.
+* Enhanced system scalability and participated in Agile (Scrum) delivery cycles.
+
+---
+
+### Earlier Roles
+
+* Asia Padu Sdn Bhd – Software Developer
+* Axis Network Technology Sdn Bhd – Software Developer
+* AKARI Software Asia Pacific Sdn Bhd – Web Developer (Intern)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science (Hons.)**
+Universiti Teknologi MARA (UiTM) Perak
+
+Leadership & Activities:
+
+* Vice President – BASCO (Bachelor of Computer Science Community)
+* 4th Place – ICT & Mathematics Carnival (KICTM 2019)
+* Mentor – Coding Rawks (Java)
+* Organized Code Wars programming competition
+
+---
+
+## 🚀 Featured Projects
+
+### Palm Oil Maturity Detection System
+
+* Real-time computer vision system using YOLOv3.
+* Trained with 3,000+ annotated images.
+* Supports image, video, and live webcam classification.
+
+### APPI Examination Question Bank
+
+* Laravel & MySQL-based platform managing 100k+ questions.
+* Used nationwide for customizable examination generation.
 
 ---
 
 ## ⚙️ Running Locally
 
-1. Clone the repository:
-
 ```bash
-git clone https://github.com/yourusername/your-portfolio.git
+git clone https://github.com/NazrinAfzal1997/portfolio-nazrin-afzal.git
+cd portfolio-nazrin-afzal
 ```
 
-2. Navigate into the project:
+Open `index.html` in your browser.
 
-```bash
-cd your-portfolio
-```
-
-3. Open `index.html` in your browser.
-
-No build tools or package installations required.
+No build tools required.
 
 ---
 
-## 🚀 Deployment
+## 🌍 Deployment
 
-Deploy easily using:
+The project is a static website and can be deployed using:
 
 * GitHub Pages
 * Netlify
 * Vercel
 * Any static hosting provider
 
-Before deployment:
-
-* Update canonical URL
-* Replace placeholder domain
-* Optimize image hosting
-* Verify Open Graph preview
-
 ---
 
-## 🔍 SEO Implementation
+## 📫 Contact
 
-Includes:
-
-* Meta title & description
-* Keywords for recruiter visibility
-* Open Graph tags
-* Twitter card
-* Schema.org Person structured data
-
-Designed for strong LinkedIn and search engine preview rendering.
-
----
-
-## 👨‍💻 About Me
-
-**Nazrin Afzal**
-Software Engineer
+Nazrin Afzal
+Backend Engineer
 Shah Alam, Selangor, Malaysia
 
-* 4+ Years Professional Experience
-* Enterprise & Fintech Systems
-* Backend Architecture Specialist
-* Laravel Expert
-
 📧 [nazrinafzal.official@gmail.com](mailto:nazrinafzal.official@gmail.com)
-🔗 [https://www.linkedin.com/in/nazrin-afzal1997/](https://www.linkedin.com/in/nazrin-afzal1997/)
+📱 +6013-252-2684
 
 ---
 
 ## 📜 License
 
 This project is intended for personal portfolio use.
-
-You may use the structure for inspir
+You may use the structure for inspiration, but please do not duplicate personal content or ide
